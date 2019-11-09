@@ -17,3 +17,8 @@ It took me a long time because I need to relearn how roman numerals work, there 
 excercise 4
 start 22:06, end 22:30
 I've used argparse to get input from user via command line arguments, the default is https://twitter.com/KMbappe if no user is specified
+
+
+I've also added a requirements.txt
+Install the requirements
+	$ pip install -r requirements.txt
