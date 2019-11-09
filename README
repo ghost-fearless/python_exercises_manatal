@@ -10,6 +10,10 @@ excercise 2
 start 12:10, end 12:53
 It took me a long time because I have to create a unittest, which should be standard cause unittests rocks!
 
-excercise 2
+excercise 3
 start 13:01, end 13:33
 It took me a long time because I need to relearn how roman numerals work, there is some confusion about IIII vs IV(https://en.wikipedia.org/wiki/Roman_numerals#cite_note-2), I gotta go eat some lunch, do my laundry and get back and start the exercise 4, proly later tonight.
+
+excercise 4
+start 22:06, end 22:30
+I've used argparse to get input from user via command line arguments, the default is https://twitter.com/KMbappe if no user is specified
